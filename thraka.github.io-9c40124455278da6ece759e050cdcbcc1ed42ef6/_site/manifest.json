@@ -1,0 +1,6407 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "**/api/**.yml": {
+        "baseUrl": "https://sadconsole.com/",
+        "changefreq": "monthly",
+        "priority": 0.7
+      },
+      "**/articles/**.md": {
+        "baseUrl": "https://sadconsole.com/",
+        "changefreq": "monthly",
+        "priority": 1.0
+      }
+    },
+    "baseUrl": "https://sadconsole.com/",
+    "changefreq": "monthly",
+    "priority": 0.5
+  },
+  "source_base_path": "C:/Code/Fun/thraka.github.io-source/root",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "404.md",
+      "output": {
+        ".html": {
+          "relative_path": "404.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "_config.yml",
+      "output": {
+        "resource": {
+          "relative_path": "_config.yml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.Enums-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.Enums-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.ImGui2.FontGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.ImGui2.FontGlyph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.ImGui2.GlyphPickerPopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.ImGui2.GlyphPickerPopup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.ImGui2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.ImGui2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.SettingsTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.SettingsTable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.ViewportExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.ViewportExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hexa.NET.ImGui.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hexa.NET.ImGui.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.Graphics.MonoGame_TextureExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.Graphics.MonoGame_TextureExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.Graphics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.Graphics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.MonoColorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.MonoColorExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.MonoPointExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.MonoPointExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.MonoRectangleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.MonoRectangleExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Xna.Framework.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Xna.Framework.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Algorithms.NodeConnections-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Algorithms.NodeConnections-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Algorithms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Algorithms.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.AnimatedScreenObject.AnimationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.AnimatedScreenObject.AnimationState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.AnimatedScreenObject.AnimationStateChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.AnimatedScreenObject.AnimationStateChangedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.AnimatedScreenObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.AnimatedScreenObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Ansi.AnsiWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Ansi.AnsiWriter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Ansi.Document.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Ansi.Document.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Ansi.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Ansi.Helpers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Ansi.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Ansi.State.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Ansi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Ansi.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.CellDecorator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.CellDecorator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.CellDecoratorHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.CellDecoratorHelpers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.CellSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.CellSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.CellSurfaceEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.CellSurfaceEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ColoredGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ColoredGlyph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ColoredGlyphAndEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ColoredGlyphAndEffect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ColoredGlyphBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ColoredGlyphBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ColoredGlyphState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ColoredGlyphState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ColoredString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ColoredString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.C64KeyboardHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.C64KeyboardHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.ClassicConsoleKeyboardHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.ClassicConsoleKeyboardHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.CoroutineHandlerComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.CoroutineHandlerComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.Cursor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.Cursor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.DebugFocusedObjectTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.DebugFocusedObjectTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.DebugMouseTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.DebugMouseTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.DrawImage.PositionModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.DrawImage.PositionModes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.DrawImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.DrawImage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.IComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.IComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.IComponentHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.IComponentHost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.InputConsoleComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.InputConsoleComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.KeyboardConsoleComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.KeyboardConsoleComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.LayeredSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.LayeredSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.LogicComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.LogicComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.MouseConsoleComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.MouseConsoleComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.MouseTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.MouseTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.MoveViewPortKeyboardHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.MoveViewPortKeyboardHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.ObjectComponentMove.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.ObjectComponentMove.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.Overlay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.Overlay.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.RenderComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.RenderComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.RootComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.RootComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.SmoothMove.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.SmoothMove.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.SurfaceComponentFollowTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.SurfaceComponentFollowTarget.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.Timer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.UpdateComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.UpdateComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Components.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Components.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.Builder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.CallbackConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.CallbackConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.ConfigurationImGui.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.ConfigurationImGui.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.DebugExtensionsFocusedTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.DebugExtensionsFocusedTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.DebugExtensionsImGui.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.DebugExtensionsImGui.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.DebugExtensionsMouseTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.DebugExtensionsMouseTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.ExtensionsHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.ExtensionsHost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.FontConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.FontConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.FpsConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.FpsConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.IConfigurator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.IConfigurator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.InternalHostStartupData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.InternalHostStartupData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.InternalStartupData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.InternalStartupData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.MonoGameCallbackConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.MonoGameCallbackConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.MonoGameSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.MonoGameSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.SplashScreenConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.SplashScreenConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.StartingConsoleConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.StartingConsoleConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.StartingScreenConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.StartingScreenConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Configuration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Console.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Console.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ColoredGlyphReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ColoredGlyphReference.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ComponentsPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ComponentsPanel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Debugger.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Debugger.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Debugger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Debugger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Editors.ISadComponentPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Editors.ISadComponentPanel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Editors.IScreenObjectPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Editors.IScreenObjectPanel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Editors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Editors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.FinalOutputWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.FinalOutputWindow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.Screen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.Screen.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ScreenObjectDetailsPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ScreenObjectDetailsPanel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ScreenObjectState.ScreenSurfaceState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ScreenObjectState.ScreenSurfaceState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ScreenObjectState.WindowConsoleState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ScreenObjectState.WindowConsoleState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.ScreenObjectState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.ScreenObjectState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Debug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Debug.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.DrawCallColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.DrawCallColor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.DrawCallCustom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.DrawCallCustom.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.DrawCallGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.DrawCallGlyph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.DrawCallManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.DrawCallManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.DrawCallTexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.DrawCallTexture.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.IDrawCall.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.IDrawCall.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.DrawCalls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.DrawCalls.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Bounce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Bounce.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Circle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Circle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.EasingBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.EasingBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.EasingMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.EasingMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Expo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Expo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Linear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Linear.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Quad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Quad.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.Sine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.Sine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.EasingFunctions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.EasingFunctions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.Blink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.Blink.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.BlinkGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.BlinkGlyph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.Blinker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.Blinker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.CellEffectBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.CellEffectBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.CodeEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.CodeEffect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.Delay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.Delay.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.EffectSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.EffectSet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.EffectsManager.ColoredGlyphEffectData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.EffectsManager.ColoredGlyphEffectData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.EffectsManager.ColoredGlyphWithState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.EffectsManager.ColoredGlyphWithState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.EffectsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.EffectsManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.Fade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.Fade.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.ICellEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.ICellEffect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.Recolor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.Recolor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Effects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Effects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.AnimatedAppearanceComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.AnimatedAppearanceComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.Entity.Animated.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.Entity.Animated.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.Entity.EntityMovedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.Entity.EntityMovedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.Entity.SingleCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.Entity.SingleCell.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.Entity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.Entity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.EntityManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.EntityManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.EntityManagerZoned.ZoneEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.EntityManagerZoned.ZoneEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.EntityManagerZoned.ZoneMoveEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.EntityManagerZoned.ZoneMoveEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.EntityManagerZoned.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.EntityManagerZoned.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.Zone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.Zone.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Entities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ExtendedLib_StringExtensions2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ExtendedLib_StringExtensions2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ExtendedLib_SurfaceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ExtendedLib_SurfaceExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Extensions.ReadOnlySpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Extensions.ReadOnlySpan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ExtensionsSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ExtensionsSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.FocusBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.FocusBehavior.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.FocusedScreenObjectStack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.FocusedScreenObjectStack.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.FontEditing.ExtensionsFontHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.FontEditing.ExtensionsFontHost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.FontEditing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.FontEditing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.FontExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.FontExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Game.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.GameHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.GameHost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.GlyphDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.GlyphDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.HandledEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.HandledEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Helpers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.HorizontalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.HorizontalAlignment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.ClearScreenGameComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.ClearScreenGameComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.FPSCounterComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.FPSCounterComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Game.ClearScreenGameComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Game.ClearScreenGameComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Game.FPSCounterComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Game.FPSCounterComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Game.SadConsoleGameComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Game.SadConsoleGameComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Game.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.GameTexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.GameTexture.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Global.RecreateRenderOutputDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Global.RecreateRenderOutputDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Global.ResizeGraphicsDeviceManagerDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Global.ResizeGraphicsDeviceManagerDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Global.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.SadConsoleGameComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.SadConsoleGameComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Host.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Host.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ICellSurface.ConnectedLineIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ICellSurface.ConnectedLineIndex.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ICellSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ICellSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ICellSurfaceResize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ICellSurfaceResize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ICellSurfaceSettable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ICellSurfaceSettable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.IFont.Sizes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.IFont.Sizes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.IFont.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.IFont.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.IScreenObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.IScreenObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.IScreenSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.IScreenSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.IScreenSurfaceEditable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.IScreenSurfaceEditable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ISurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ISurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ISurfaceSettable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ISurfaceSettable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ITexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ITexture.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.DrawVertDeclaration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.DrawVertDeclaration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.Helpers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiDemos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiDemos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiImplementation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiImplementation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiMonoGameComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiMonoGameComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiObjectBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiObjectBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiObjectCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiObjectCollection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.ImGuiWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.ImGuiWindow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.Themes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.Themes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ImGuiSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ImGuiSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.AsciiKey.CharacterKeyMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.AsciiKey.CharacterKeyMapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.AsciiKey.ShiftedCharacterMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.AsciiKey.ShiftedCharacterMapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.AsciiKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.AsciiKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.IKeyboardState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.IKeyboardState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.IMouseState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.IMouseState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.Keyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.Keyboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.KeyboardHandledKeyEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.KeyboardHandledKeyEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.Keys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.Keys.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.Mouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.Mouse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.MouseScreenObjectState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.MouseScreenObjectState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Input.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.AnimatedBoxGrow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.AnimatedBoxGrow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.AnimatedValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.AnimatedValue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.CodeInstruction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.CodeInstruction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.ConcurrentInstructions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.ConcurrentInstructions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.DrawString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.DrawString.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.FadeTextSurfaceTint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.FadeTextSurfaceTint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.InstructionBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.InstructionBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.InstructionSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.InstructionSet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.PredicateInstruction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.PredicateInstruction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.Wait.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.Wait.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Instructions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Instructions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.LayeredScreenSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.LayeredScreenSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Mirror.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Mirror.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.MonoGame_MirrorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.MonoGame_MirrorExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Orientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Orientation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.PointExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.PointExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Quick.Keyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Quick.Keyboard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Quick.Mouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Quick.Mouse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Quick.Update.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Quick.Update.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Quick.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Quick.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.Playscii.Frame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.Playscii.Frame.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.Playscii.Layer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.Playscii.Layer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.Playscii.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.Playscii.Tile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.Playscii.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.Playscii.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.REXPaintImage.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.REXPaintImage.Cell.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.REXPaintImage.Color.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.REXPaintImage.Color.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.REXPaintImage.Layer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.REXPaintImage.Layer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.REXPaintImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.REXPaintImage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TextureToSurfaceReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TextureToSurfaceReader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TheDrawFont.Character.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TheDrawFont.Character.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TheDrawFont.CharacterRow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TheDrawFont.CharacterRow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TheDrawFont.CharacterSpot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TheDrawFont.CharacterSpot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TheDrawFont.FontType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TheDrawFont.FontType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.TheDrawFont.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.TheDrawFont.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Readers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Readers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.RectangleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.RectangleExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.Constants.RenderStepNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.Constants.RenderStepNames.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.Constants.RenderStepSortValues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.Constants.RenderStepSortValues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.Constants.RendererNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.Constants.RendererNames.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.Constants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.ControlHostRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.ControlHostRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.CursorRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.CursorRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.EntityRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.EntityRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.ILayeredData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.ILayeredData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.IRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.IRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.IRenderStepTexture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.IRenderStepTexture.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.IRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.IRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.IRendererMonoGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.IRendererMonoGame.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.IWindowData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.IWindowData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.LayeredRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.LayeredRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.LayeredSurfaceRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.LayeredSurfaceRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.OptimizedScreenSurfaceRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.OptimizedScreenSurfaceRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.OutputSurfaceRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.OutputSurfaceRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.RenderStepComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.RenderStepComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.ScreenSurfaceRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.ScreenSurfaceRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.SurfaceDirtyCellsRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.SurfaceDirtyCellsRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.SurfaceRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.SurfaceRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.TintSurfaceRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.TintSurfaceRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.WindowRenderStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.WindowRenderStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.WindowRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.WindowRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Renderers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Renderers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SadFont.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SadFont.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ScreenObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ScreenObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ScreenObjectCollection-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ScreenObjectCollection-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ScreenObjectCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ScreenObjectCollection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ScreenObjectComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ScreenObjectComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ScreenSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ScreenSurface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.ColorJsonConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.ColorJsonConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.ColorSerialized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.ColorSerialized.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.ColoredGlyphJsonConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.ColoredGlyphJsonConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.ColoredGlyphSerialized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.ColoredGlyphSerialized.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.FontJsonConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.FontJsonConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.FontSerialized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.FontSerialized.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.RendererJsonConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.RendererJsonConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SerializedTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SerializedTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Serializer.Contracts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Serializer.Contracts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Serializer.LogTraceWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Serializer.LogTraceWriter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Serializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Serializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Settings.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Settings.Input.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Settings.Rendering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Settings.Rendering.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Settings.WindowResizeOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Settings.WindowResizeOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ShapeParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ShapeParameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SplashScreens.Ansi1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SplashScreens.Ansi1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SplashScreens.PCBoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SplashScreens.PCBoot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SplashScreens.Simple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SplashScreens.Simple.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SplashScreens.SplashScreenManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SplashScreens.SplashScreenManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.SplashScreens.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.SplashScreens.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.BBCodeCommandBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.BBCodeCommandBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Bold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Bold.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Italic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Italic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Lower.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Lower.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Parser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Parser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Recolor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Recolor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Strikethrough.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Strikethrough.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Underline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Underline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.Upper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.Upper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.BBCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.BBCode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.CommandTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.CommandTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.Default.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.Default.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.IParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.IParser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandBlink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandBlink.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandClearEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandClearEffect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandDecorator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandDecorator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandGradient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandGradient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandMirror.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandMirror.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandRecolor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandRecolor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandSetGlyph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandSetGlyph.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandStacks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandStacks.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.ParseCommandUndo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.ParseCommandUndo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringParser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringValidation.Result.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringValidation.Result.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringValidation.Validator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringValidation.Validator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.StringValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.StringValidation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.TextureConvertBackgroundStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.TextureConvertBackgroundStyle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.TextureConvertForegroundStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.TextureConvertForegroundStyle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.TextureConvertMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.TextureConvertMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Transitions.Fade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Transitions.Fade.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.Transitions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.Transitions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.AdjustableColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.AdjustableColor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Border.BorderParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Border.BorderParameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Border.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Border.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Colors.Brightness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Colors.Brightness.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Colors.ColorNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Colors.ColorNames.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Colors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Colors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.ControlHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.ControlHost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Button.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Button.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Button3d.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Button3d.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ButtonBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ButtonBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ButtonBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ButtonBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.CharacterPicker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.CharacterPicker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.CheckBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.CheckBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ColorBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ColorBar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ColorPicker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ColorPicker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ComboBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ComboBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.CompositeControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.CompositeControl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ControlBase.ControlMouseState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ControlBase.ControlMouseState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ControlBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ControlBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ControlStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ControlStates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.DrawingArea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.DrawingArea.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.FauxDirectory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.FauxDirectory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.HighlightedExtFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.HighlightedExtFile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.FileDirectoryListbox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.FileDirectoryListboxItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.FileDirectoryListboxItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.HueBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.HueBar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.IContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.IContainer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Label.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Label.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ListBox.SelectedItemEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ListBox.SelectedItemEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ListBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ListBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ListBoxItemColorTheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ListBoxItemColorTheme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ListBoxItemTheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ListBoxItemTheme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.NumberBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.NumberBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Panel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Panel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ProgressBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ProgressBar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.RadioButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.RadioButton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ScrollBar.ThemeStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ScrollBar.ThemeStyle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ScrollBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ScrollBar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.SelectionButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.SelectionButton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.SurfaceViewer.ScrollBarModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.SurfaceViewer.ScrollBarModes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.SurfaceViewer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.SurfaceViewer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.TabControl.Orientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.TabControl.Orientation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.TabControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.TabControl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.TabItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.TabItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.HorizontalAlign.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.HorizontalAlign.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.VerticalAlign.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.VerticalAlign.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.Cell.Options.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.Cell.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.CellChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.CellChangedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.CellEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.CellEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.Mode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.Mode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.RangeEnumerable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.RangeEnumerable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.TableCells.Layout.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.TableCells.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.TableCells.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.Table.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.Table.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.TableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.TableExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.TextBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.TextBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ToggleButtonBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ToggleButtonBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.ToggleSwitch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.ToggleSwitch.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Controls.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.ControlsConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.ControlsConsole.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.KeyPressEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.KeyPressEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.NamedColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.NamedColor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.NamedColorCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.NamedColorCollection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.ThemeStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.ThemeStates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Window.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Window.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Windows.ColorPickerPopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Windows.ColorPickerPopup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Windows.GlyphSelectPopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Windows.GlyphSelectPopup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Windows.OtherColorsPopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Windows.OtherColorsPopup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.Windows.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.Windows.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.UI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.ValueChangedCancelableEventArgs-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.ValueChangedCancelableEventArgs-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.VerticalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.VerticalAlignment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadConsole.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadRogue.Primitives.ColorExtensions2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadRogue.Primitives.ColorExtensions2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadRogue.Primitives.SadRogueColorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadRogue.Primitives.SadRogueColorExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadRogue.Primitives.SadRoguePointExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadRogue.Primitives.SadRoguePointExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadRogue.Primitives.SadRogueRectangleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadRogue.Primitives.SadRogueRectangleExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SadRogue.Primitives.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SadRogue.Primitives.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Numerics.ExtensionsColorNumerics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Numerics.ExtensionsColorNumerics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Numerics.ExtensionsColorNumericsMonoGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Numerics.ExtensionsColorNumericsMonoGame.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Numerics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Numerics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "apidocs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/concept-surfaces.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/concept-surfaces.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started-cli.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started-cli.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started-visualstudio.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started-visualstudio.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-apply-shader.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-apply-shader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-change-control-colors.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-change-control-colors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-connect-lines.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-connect-lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-resize-a-console-with-the-window.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-resize-a-console-with-the-window.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-use-debugger.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-use-debugger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-use-imgui.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-use-imgui.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/getting-started-cli/hello-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/getting-started-cli/hello-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/getting-started-visualstudio/hello-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/getting-started-visualstudio/hello-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/getting-started-visualstudio/template.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/getting-started-visualstudio/template.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-change-control-colors/change-control-colors.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-change-control-colors/change-control-colors.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-change-control-colors/change-host-colors.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-change-control-colors/change-host-colors.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-connect-lines/after.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-connect-lines/after.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-connect-lines/before.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-connect-lines/before.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-resize-a-console-with-the-window/dynamic-resize.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-resize-a-console-with-the-window/dynamic-resize.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-resize-a-console-with-the-window/normal-resize.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-resize-a-console-with-the-window/normal-resize.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-resize-a-console-with-the-window/starting-console.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-resize-a-console-with-the-window/starting-console.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-use-debugger/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-use-debugger/example.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/how-to-use-imgui/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/how-to-use-imgui/example.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/Content/Assets.mgcb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/Content/Assets.mgcb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/Content/bin/DesktopGL/Assets/crt-lottes-mg.xnb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/Content/bin/DesktopGL/Assets/crt-lottes-mg.xnb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/Content/crt-lottes-mg.fx",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/Content/crt-lottes-mg.fx"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/Content/obj/DesktopGL/net8.0/Assets/crt-lottes-mg.mgcontent",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/Content/obj/DesktopGL/net8.0/Assets/crt-lottes-mg.mgcontent"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/FinalDrawShader.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/FinalDrawShader.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/GameSettings.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/GameSettings.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/MyGame.csproj",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/MyGame.csproj"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/Program.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/Program.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/RootScreen.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/RootScreen.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/cs/app.manifest",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/cs/app.manifest"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-apply-shader/csharp.zip",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-apply-shader/csharp.zip"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/GameSettings.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/GameSettings.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/MyGame.csproj",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/MyGame.csproj"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/Program.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/Program.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/RootScreen.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/RootScreen.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/app.manifest",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/app.manifest"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/ColorMineStandard.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/ColorMineStandard.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Coroutine.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Coroutine.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Hexa.NET.ImGui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Hexa.NET.ImGui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/HexaGen.Runtime.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/HexaGen.Runtime.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MonoGame.Framework.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MonoGame.Framework.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.deps.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.deps.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.exe",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.exe"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.pdb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.pdb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.runtimeconfig.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/MyGame.runtimeconfig.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Newtonsoft.Json.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Newtonsoft.Json.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Roboto-Regular.ttf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/Roboto-Regular.ttf"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SCTesting.lnk",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SCTesting.lnk"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Debug.MonoGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Debug.MonoGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Extended.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Extended.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Host.MonoGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.Host.MonoGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/SadConsole.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/TheSadRogue.Primitives.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/TheSadRogue.Primitives.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/imgui.ini",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/imgui.ini"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/libc++_shared.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/libc++_shared.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-x64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-x64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-x64/native/libc++_shared.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/android-x64/native/libc++_shared.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-arm64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-arm64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so.1",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so.1"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx-arm64/native/cimgui.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx-arm64/native/cimgui.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx-x64/native/cimgui.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx-x64/native/cimgui.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx/native/libSDL2.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx/native/libSDL2.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx/native/libopenal.1.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/osx/native/libopenal.1.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-arm64/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-arm64/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/soft_oal.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x64/native/soft_oal.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/SDL2.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/SDL2.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/soft_oal.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/bin/Debug/net8.0/runtimes/win-x86/native/soft_oal.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.AssemblyInfo.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.AssemblyInfo.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.AssemblyInfoInputs.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.AssemblyInfoInputs.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.GlobalUsings.g.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.GlobalUsings.g.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.assets.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.assets.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.AssemblyReference.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.AssemblyReference.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.BuildWithSkipAnalyzers",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.BuildWithSkipAnalyzers"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.CoreCompileInputs.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.CoreCompileInputs.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.FileListAbsolute.txt",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.FileListAbsolute.txt"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.Up2Date",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.csproj.Up2Date"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.genruntimeconfig.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.genruntimeconfig.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.pdb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/MyGame.pdb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/apphost.exe",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/apphost.exe"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/ref/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/ref/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/refint/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/Debug/net8.0/refint/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.dgspec.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.dgspec.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.g.props",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.g.props"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.g.targets",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/MyGame.csproj.nuget.g.targets"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.assets.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.assets.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.nuget.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.nuget.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.packagespec.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/project.packagespec.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/rider.project.model.nuget.info",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/rider.project.model.nuget.info"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/rider.project.restore.info",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-debugger/csharp/obj/rider.project.restore.info"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/GameSettings.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/GameSettings.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/ImGuiWindow1.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/ImGuiWindow1.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/MyGame.csproj",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/MyGame.csproj"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/Program.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/Program.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/RootScreen.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/RootScreen.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/app.manifest",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/app.manifest"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/ColorMineStandard.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/ColorMineStandard.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Coroutine.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Coroutine.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Hexa.NET.ImGui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Hexa.NET.ImGui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/HexaGen.Runtime.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/HexaGen.Runtime.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MonoGame.Framework.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MonoGame.Framework.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.deps.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.deps.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.exe",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.exe"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.pdb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.pdb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.runtimeconfig.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/MyGame.runtimeconfig.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Newtonsoft.Json.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Newtonsoft.Json.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Roboto-Regular.ttf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/Roboto-Regular.ttf"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SCTesting.lnk",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SCTesting.lnk"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Debug.MonoGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Debug.MonoGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Extended.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Extended.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Host.MonoGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.Host.MonoGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/SadConsole.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/TheSadRogue.Primitives.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/TheSadRogue.Primitives.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/imgui.ini",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/imgui.ini"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/libc++_shared.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-arm64/native/libc++_shared.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-x64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-x64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-x64/native/libc++_shared.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/android-x64/native/libc++_shared.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-arm64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-arm64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/cimgui.so",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/cimgui.so"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so.1",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so.1"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx-arm64/native/cimgui.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx-arm64/native/cimgui.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx-x64/native/cimgui.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx-x64/native/cimgui.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx/native/libSDL2.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx/native/libSDL2.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx/native/libopenal.1.dylib",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/osx/native/libopenal.1.dylib"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-arm64/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-arm64/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/soft_oal.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x64/native/soft_oal.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/SDL2.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/SDL2.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/cimgui.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/cimgui.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/soft_oal.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/bin/Debug/net8.0/runtimes/win-x86/native/soft_oal.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.AssemblyInfo.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.AssemblyInfo.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.AssemblyInfoInputs.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.AssemblyInfoInputs.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.GlobalUsings.g.cs",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.GlobalUsings.g.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.assets.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.assets.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.AssemblyReference.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.AssemblyReference.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.BuildWithSkipAnalyzers",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.BuildWithSkipAnalyzers"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.CoreCompileInputs.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.CoreCompileInputs.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.FileListAbsolute.txt",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.FileListAbsolute.txt"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.Up2Date",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.csproj.Up2Date"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.genruntimeconfig.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.genruntimeconfig.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.pdb",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/MyGame.pdb"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/apphost.exe",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/apphost.exe"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/ref/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/ref/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/refint/MyGame.dll",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/Debug/net8.0/refint/MyGame.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.dgspec.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.dgspec.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.g.props",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.g.props"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.g.targets",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/MyGame.csproj.nuget.g.targets"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/project.assets.json",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/project.assets.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/project.nuget.cache",
+      "output": {
+        "resource": {
+          "relative_path": "articles/snippets/how-to-use-imgui/csharp/obj/project.nuget.cache"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/stringparser/images/syntax/string-parser-demo.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/stringparser/images/syntax/string-parser-demo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/stringparser/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/stringparser/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/stringparser/syntax.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/stringparser/syntax.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/systems/config.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/systems/config.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/systems/controls.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/systems/controls.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/systems/fonts.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/systems/fonts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/systems/host-screen.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/systems/host-screen.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/systems/host.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/systems/host.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/systems/images/fonts/font-sample.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/systems/images/fonts/font-sample.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/systems/images/fonts/how-font-works.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/systems/images/fonts/how-font-works.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-1-drawing/new-core-hello-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-1-drawing/new-core-hello-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-3.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-4.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-1-drawing/part1-shapes-4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/cyan-cursor-console.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/cyan-cursor-console.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/single-console-child-surface.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/single-console-child-surface.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/terminal.gif",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/terminal.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/two-consoles.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-2-cursor-parents/two-consoles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-3-input/gradient.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-3-input/gradient.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-3-input/move-player-clean.gif",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-3-input/move-player-clean.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-3-input/move-player.gif",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-3-input/move-player.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-3-input/smileyface.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-3-input/smileyface.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-4-mapobject/monster-and-treasure.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-4-mapobject/monster-and-treasure.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/images/part-5-more-objects/treasure_pickup.gif",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/images/part-5-more-objects/treasure_pickup.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tutorials/getting-started/part-1-drawing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tutorials/getting-started/part-1-drawing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tutorials/getting-started/part-2-cursor-parents.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tutorials/getting-started/part-2-cursor-parents.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tutorials/getting-started/part-3-input.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tutorials/getting-started/part-3-input.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tutorials/getting-started/part-4-mapobject.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tutorials/getting-started/part-4-mapobject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tutorials/getting-started/part-5-more-objects.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tutorials/getting-started/part-5-more-objects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/projects/Part3.zip",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/projects/Part3.zip"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/projects/Part4.zip",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/projects/Part4.zip"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/tutorials/getting-started/projects/Part5.zip",
+      "output": {
+        "resource": {
+          "relative_path": "articles/tutorials/getting-started/projects/Part5.zip"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/SadConsoleLogo.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/SadConsoleLogo.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic-font-information/font-sample.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic-font-information/font-sample.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic-font-information/how-font-works.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic-font-information/how-font-works.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/blank-monogame-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/blank-monogame-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/manage-nuget-packages.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/manage-nuget-packages.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/new-project-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/new-project-dialog.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-monogame-install-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-monogame-install-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-monogame.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-monogame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-sadconsole.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/nuget-sadconsole.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/getting-started-sadconsole-core-visualstudio/sadconsole-finished.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/getting-started-sadconsole-core-visualstudio/sadconsole-finished.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/graphical-tiles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/graphical-tiles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/how-to-create-and-print-on-a-console/first-console.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/how-to-create-and-print-on-a-console/first-console.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/how-to-create-and-print-on-a-console/second-console.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/how-to-create-and-print-on-a-console/second-console.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/how-to-draw-on-a-console/with-or-without-cursor.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/how-to-draw-on-a-console/with-or-without-cursor.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/index/SadConsoleLogo.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/index/SadConsoleLogo.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/index/controls.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/index/controls.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/index/scrolling-example2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/index/scrolling-example2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/index/stringparseexample.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/index/stringparseexample.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/new-core-hello-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/new-core-hello-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/new-core-visualstudio-new-project-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/new-core-visualstudio-new-project-dialog.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/part1-nuget.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/part1-nuget.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-get-namespace.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-get-namespace.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-manage-nuget-packages.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-manage-nuget-packages.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-rename-program.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-rename-program.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-set-namespace.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-set-namespace.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-set-output.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-set-output.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/project-update-sadconsole.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/project-update-sadconsole.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/scrolling-example2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/scrolling-example2.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/stringparseexample.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/stringparseexample.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/ui-example.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/ui-example.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/v8-objects3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/v8-objects3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/what-is-the-currentscreen/parented-consoles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/what-is-the-currentscreen/parented-consoles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/what-is-the-currentscreen/two-consoles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/what-is-the-currentscreen/two-consoles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
