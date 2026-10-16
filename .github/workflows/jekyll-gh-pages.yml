@@ -33,7 +33,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./thraka.github.io-10.5.0
+          source: ./
           destination: ./thraka.github.io-10.5.0/_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
